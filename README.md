@@ -35,18 +35,18 @@ el giro de un piñón , accionado por un motor paso a paso.
 Este sistema invierte el sentido de un carro respecto al otro
 Y permite el movimiento cíclico de apertura y cierre de los brazos
 
-![Image 4](../ventilador/PICS/movimiento1.png)  
+![Image 4](/PICS/movimiento1.png)  
 
-![Image 5](../ventilador/PICS/movimiento2.png)  
+![Image 5](/ventilador/PICS/movimiento2.png)  
 
-![Image 6](../ventilador/PICS/movimiento3.png)
+![Image 6](/master/PICS/movimiento3.png)
 
 El guiado de cada carro se realiza con columnas y rodamientos lineales , que al igual que el motor paso a paso son un material estándar de las maquinas de impresión y por tanto fácil de obtener. Los rodamientos pueden ser sustituidos
 por casquillos de teflón 10-19-20  
 
 SISTEMA DE CONTROL
 
-![Image 7](../ventilador/PICS/control.png)
+![Image 7](tree/master/PICS/control.png)
 
 El sistema de control de Arduino  programado con leguaje “C” con la placa Mega 2560 proporcionaría el control de los movimientos de los brazos mediante tres potenciómetros.
 
@@ -54,7 +54,7 @@ El sistema de control de Arduino  programado con leguaje “C” con la placa Me
 - Potenciómetro de ajuste de la carrera de los brazos 
 - Potenciómetro de ajuste de tiempo de ciclo completo aspiración + expiración 
 
-![Image 8](../ventilador/PICS/dimensiones.png)
+![Image 8](../tree/master/PICS/dimensiones.png)
 
  Las dimensiones del equipo son  400 x 380  altura  340 mm
 
