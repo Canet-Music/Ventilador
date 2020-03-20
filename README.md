@@ -15,7 +15,7 @@ Los grupos de componentes serian :
 2-  BRAZOS DE COMPRESION EXTERNA DE LA BOLSA    
 3-  EQUIPO DE CONTROL CON ARDUINO
 
-![Image 1](../ventilador/PICS/respirador1.png)
+![Image 1](/PICS/respirador1.png)
 
 BOLSA DE SILCONA
 
@@ -24,9 +24,9 @@ El molde seria formado por dos piezas desmontables  para
 la forma exterior y un núcleo interior.
 El material que formaría la bolsa seria Silicona de dos componentes de uso medico no toxica
 
-![Image 2](../ventilador/PICS/respirador2.png)
+![Image 2](/PICS/respirador2.png)
 
-![Image 3](../ventilador/PICS/bolsa.png)
+![Image 3](/PICS/Bolsa.png)
 
 BRAZOS DE COMPRESION    
 
@@ -37,16 +37,16 @@ Y permite el movimiento cíclico de apertura y cierre de los brazos
 
 ![Image 4](/PICS/Movimiento1.png)  
 
-![Image 5](/PICS/movimiento2.png?raw=true)  
+![Image 5](/PICS/Movimiento2.png?raw=true)  
 
-![Image 6](/master/PICS/movimiento3.png)
+![Image 6](/PICS/Movimiento3.png)
 
 El guiado de cada carro se realiza con columnas y rodamientos lineales , que al igual que el motor paso a paso son un material estándar de las maquinas de impresión y por tanto fácil de obtener. Los rodamientos pueden ser sustituidos
 por casquillos de teflón 10-19-20  
 
 SISTEMA DE CONTROL
 
-![Image 7](tree/master/PICS/control.png)
+![Image 7](/PICS/Control.png)
 
 El sistema de control de Arduino  programado con leguaje “C” con la placa Mega 2560 proporcionaría el control de los movimientos de los brazos mediante tres potenciómetros.
 
@@ -54,7 +54,7 @@ El sistema de control de Arduino  programado con leguaje “C” con la placa Me
 - Potenciómetro de ajuste de la carrera de los brazos 
 - Potenciómetro de ajuste de tiempo de ciclo completo aspiración + expiración 
 
-![Image 8](../tree/master/PICS/dimensiones.png)
+![Image 8](/PICS/dimensiones.png)
 
  Las dimensiones del equipo son  400 x 380  altura  340 mm
 
@@ -66,8 +66,3 @@ Este proyecto esta destinado a personas con disponibilidad de una impresora 3D y
 
 Para personas que desconozcan el tema de control con Arduino , sigo con un segundo proyecto en que los carros de empuje son accionados por un motor de c,c, y mecanismo de biela –manivela . Esta opción mantiene a los elementos básicos del proyecto actual  dejando libre la opción de ataque del mecanismo del motor y las bielas.
 
-
-
-https://github.com/Canet-Music/Ventilador/blob/master/PICS/Movimiento1.png
-https://github.com/Canet-Music/Ventilador/blob/master/PICS/Movimiento1.png
-https://github.com/Canet-Music/Ventilador/blob/master/PICS/Movimiento1.png
