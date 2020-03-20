@@ -35,9 +35,9 @@ el giro de un piñón , accionado por un motor paso a paso.
 Este sistema invierte el sentido de un carro respecto al otro
 Y permite el movimiento cíclico de apertura y cierre de los brazos
 
-![Image 4](/PICS/movimiento1.png)  
+![Image 4](/PICS/Movimiento1.png)  
 
-![Image 5](/ventilador/PICS/movimiento2.png)  
+![Image 5](/PICS/movimiento2.png?raw=true)  
 
 ![Image 6](/master/PICS/movimiento3.png)
 
@@ -65,3 +65,9 @@ Nuestro compromiso en el proyecto consistirá en la realización de un prototipo
 Este proyecto esta destinado a personas con disponibilidad de una impresora 3D y conocimientos del sistema Arduino de control.
 
 Para personas que desconozcan el tema de control con Arduino , sigo con un segundo proyecto en que los carros de empuje son accionados por un motor de c,c, y mecanismo de biela –manivela . Esta opción mantiene a los elementos básicos del proyecto actual  dejando libre la opción de ataque del mecanismo del motor y las bielas.
+
+
+
+https://github.com/Canet-Music/Ventilador/blob/master/PICS/Movimiento1.png
+https://github.com/Canet-Music/Ventilador/blob/master/PICS/Movimiento1.png
+https://github.com/Canet-Music/Ventilador/blob/master/PICS/Movimiento1.png
